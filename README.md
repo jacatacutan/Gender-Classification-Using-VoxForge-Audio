@@ -11,7 +11,9 @@ Main Notebooks (in sequence):
 - Final-ML
 
 Supporting Notebooks:
+
 These notebooks serve as scratch work for testing various machine learning approaches, roughly in order:
+
 - Basic-ML
 - Rebalancing-ML
 - RebalWithOptuna-ML
