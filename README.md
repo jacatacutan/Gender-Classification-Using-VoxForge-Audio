@@ -1,7 +1,5 @@
 # Gender-Classification-Using-VoxForge-Audio
 
-## Case study for Datung
-
 This repository contains a total of 7 notebooks and 1 .pkl file for the best-performing model.
 
 Main Notebooks (in sequence):
